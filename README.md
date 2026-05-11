@@ -1,4 +1,4 @@
-![InklingSplasher's GitHub stats](https://github-readme-stats.vercel.app/api?username=inklingsplasher&show_icons=true&theme=omni)
+![Stats](./profile/stats.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inklingsplasher&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # About Me
