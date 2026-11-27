@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="94.83"
+          width="94.45"
           height="8"
           fill="#3572A5"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="94.83"
+          x="94.45"
           y="0"
-          width="84.32"
+          width="85.31"
           height="8"
           fill="#3178c6"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="179.14999999999998"
+          x="179.76"
           y="0"
-          width="45.88"
+          width="45.44"
           height="8"
           fill="#89e051"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="225.02999999999997"
+          x="225.2"
           y="0"
-          width="12.32"
+          width="12.27"
           height="8"
           fill="#f1e05a"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.34999999999997"
+          x="237.47"
           y="0"
-          width="14.620000000000001"
+          width="14.55"
           height="8"
           fill="#e34c26"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.96999999999997"
+          x="242.02"
           y="0"
-          width="14.05"
+          width="14.04"
           height="8"
           fill="#663399"
         />
@@ -188,9 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.01999999999998"
+          x="246.06"
           y="0"
-          width="12.52"
+          width="12.48"
           height="8"
           fill="#7355dd"
         />
@@ -200,7 +200,7 @@
           data-testid="lang-progress"
           x="248.54"
           y="0"
-          width="11.47"
+          width="11.45"
           height="8"
           fill="#3D6117"
         />
@@ -211,35 +211,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 37.93%
+        Python 37.78%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 33.73%
+        TypeScript 34.13%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#89e051" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Shell 18.35%
+        Shell 18.18%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 4.93%
+        JavaScript 4.91%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 1.85%
+        HTML 1.82%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -253,14 +253,14 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#7355dd" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 1.01%
+        C# 0.99%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX 0.59%
+        TeX 0.58%
       </text>
     </g>
   </g></g>
